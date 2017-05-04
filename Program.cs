@@ -24,7 +24,7 @@ namespace DocumentDbTest
             var mouse = new Product("Apple Magic Mouse", 599M, 2);
 
             // Gera um novo pedido
-            var order = new Order();
+            var order = new Order(customer);
             order.AddItem(new OrderItem(mouse, 2));
 
             // Percorre todos os itens do pedido

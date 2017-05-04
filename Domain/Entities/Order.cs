@@ -10,13 +10,15 @@ namespace DocumentDbTest.Domain.Entities
     {
         private IList<OrderItem> _items;
 
-        public Order()
+        public Order(Customer customer)
         {
+            Customer = customer;
             Date = DateTime.Now;
             _items = new List<OrderItem>();
         }
 
         public DateTime Date { get; private set; }
+        public Customer Customer { get; private set; }
         public IReadOnlyCollection<OrderItem> Items
         {
             get { return _items.ToArray(); }
