@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "b0e06d2897494dc33f1d4e1ce2d84e7223fbe1c9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "documentdbtest/1.0.0": {
+        "dependencies": {
+          "FluentValidator.Core": "1.0.0"
+        },
+        "runtime": {
+          "DocumentDbTest.dll": {}
+        }
+      },
+      "fluentvalidator.core/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.6/FluentValidator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "documentdbtest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fluentvalidator.core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fj0yX8EJ90xh9WoT14TfRZcUbREn/fy//pAZe5atup/LrFGFx+KJ2CdECOqrOxidIdPGAPHBaIj+PxRCvrGEDg==",
+      "path": "fluentvalidator.core/1.0.0",
+      "hashPath": "fluentvalidator.core.1.0.0.nupkg.sha512"
+    }
+  }
+}

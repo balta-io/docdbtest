@@ -1,0 +1,8 @@
+/Users/andrebaltieri/dev/DocumentDbTest/bin/Debug/netcoreapp1.1/DocumentDbTest.deps.json
+/Users/andrebaltieri/dev/DocumentDbTest/bin/Debug/netcoreapp1.1/DocumentDbTest.runtimeconfig.json
+/Users/andrebaltieri/dev/DocumentDbTest/bin/Debug/netcoreapp1.1/DocumentDbTest.runtimeconfig.dev.json
+/Users/andrebaltieri/dev/DocumentDbTest/bin/Debug/netcoreapp1.1/DocumentDbTest.dll
+/Users/andrebaltieri/dev/DocumentDbTest/bin/Debug/netcoreapp1.1/DocumentDbTest.pdb
+/Users/andrebaltieri/dev/DocumentDbTest/obj/Debug/netcoreapp1.1/DocumentDbTest.AssemblyInfo.cs
+/Users/andrebaltieri/dev/DocumentDbTest/obj/Debug/netcoreapp1.1/DocumentDbTest.dll
+/Users/andrebaltieri/dev/DocumentDbTest/obj/Debug/netcoreapp1.1/DocumentDbTest.pdb
